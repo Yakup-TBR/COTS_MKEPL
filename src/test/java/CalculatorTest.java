@@ -68,5 +68,17 @@ public class CalculatorTest {
         int[] arr = new int[5];
         arr[10] = 10; // ArrayIndexOutOfBoundsException will be thrown
     }
+    
+    @Test
+    public void testDuplicateLines() {
+        // Introduce more than 5 duplicate lines
+        int x = 0;
+        x++;
+        x++;
+        x++;
+        x++;
+        x++;
+        x++; // 6th duplicated line
+    }
 
 }
