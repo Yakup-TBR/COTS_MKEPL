@@ -30,7 +30,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/Yakup-TBR/TesUAS</url>
+            <url>https://maven.pkg.github.com/Yakup-TBR/COTS_MKEPL</url>
         </repository>
     </distributionManagement>
     
