@@ -4,6 +4,31 @@ public class Calculator {
         return a + b;
     }
 
+    // Duplicate line 1
+    public static int tambah(int a, int b) {
+        return a + b;
+    }
+
+    // Duplicate line 2
+    public static int tambah(int a, int b) {
+        return a + b;
+    }
+
+    // Duplicate line 3
+    public static int tambah(int a, int b) {
+        return a + b;
+    }
+
+    // Duplicate line 4
+    public static int tambah(int a, int b) {
+        return a + b;
+    }
+
+    // Duplicate line 5
+    public static int tambah(int a, int b) {
+        return a + b;
+    }
+
     public static int kurang(int a, int b) {
         return a - b;
     }
