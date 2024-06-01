@@ -24,7 +24,7 @@
  
      @Test
      public void testTambah() {
-         assertEquals(6, Calculator.tambah(2, 3));
+         assertEquals(7, Calculator.tambah(2, 3));
          assertEquals(-1, Calculator.tambah(-2, 1));
          assertEquals(0, Calculator.tambah(0, 0));
      }
